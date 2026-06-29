@@ -1,2 +1,2 @@
 # To-Do App
-A console-based daily task manager.
+A console-based daily task manager
